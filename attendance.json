@@ -1,0 +1,84 @@
+{
+  "students": [
+    {
+      "name": "Rahul Sharma",
+      "roll_no": "101",
+      "total_days": 7,
+      "present_days": 6,
+      "attendance_percentage": 85.71,
+      "attendance": {
+        "2026-10-08": "Present",
+        "2026-10-09": "Present",
+        "2026-10-10": "Absent",
+        "2026-10-11": "Present",
+        "2026-10-12": "Present",
+        "2026-10-13": "Present",
+        "2026-10-14": "Present"
+      }
+    },
+    {
+      "name": "Priya Patel",
+      "roll_no": "102",
+      "total_days": 7,
+      "present_days": 5,
+      "attendance_percentage": 71.43,
+      "attendance": {
+        "2026-10-08": "Present",
+        "2026-10-09": "Absent",
+        "2026-10-10": "Present",
+        "2026-10-11": "Present",
+        "2026-10-12": "Absent",
+        "2026-10-13": "Present",
+        "2026-10-14": "Present"
+      }
+    },
+    {
+      "name": "Aarav Mehta",
+      "roll_no": "103",
+      "total_days": 7,
+      "present_days": 7,
+      "attendance_percentage": 100.0,
+      "attendance": {
+        "2026-10-08": "Present",
+        "2026-10-09": "Present",
+        "2026-10-10": "Present",
+        "2026-10-11": "Present",
+        "2026-10-12": "Present",
+        "2026-10-13": "Present",
+        "2026-10-14": "Present"
+      }
+    },
+    {
+      "name": "Ananya Gupta",
+      "roll_no": "104",
+      "total_days": 7,
+      "present_days": 4,
+      "attendance_percentage": 57.14,
+      "attendance": {
+        "2026-10-08": "Absent",
+        "2026-10-09": "Present",
+        "2026-10-10": "Present",
+        "2026-10-11": "Absent",
+        "2026-10-12": "Present",
+        "2026-10-13": "Absent",
+        "2026-10-14": "Present"
+      }
+    },
+    {
+      "name": "Vikram Singh",
+      "roll_no": "105",
+      "total_days": 7,
+      "present_days": 6,
+      "attendance_percentage": 85.71,
+      "attendance": {
+        "2026-10-08": "Present",
+        "2026-10-09": "Present",
+        "2026-10-10": "Present",
+        "2026-10-11": "Absent",
+        "2026-10-12": "Present",
+        "2026-10-13": "Present",
+        "2026-10-14": "Present"
+      }
+    }
+  ]
+}
